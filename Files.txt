@@ -1,0 +1,10 @@
+./DataSets/nuevoDatasetFinal1.txt
+./DataSets/nuevoDatasetFinal2.txt
+./DataSets/nuevoDatasetFinal3.txt
+./DataSets/nuevoDatasetFinal4.txt
+./DataSets/nuevoDatasetFinal5.txt
+./DataSets/nuevoDatasetFinal6.txt
+./DataSets/nuevoDatasetFinal7.txt
+./DataSets/nuevoDatasetFinal8.txt
+./DataSets/nuevoDatasetFinal9.txt
+./DataSets/nuevoDatasetFinal10.txt
